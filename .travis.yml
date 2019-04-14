@@ -6,3 +6,5 @@ install:
   - pipenv install --dev
 script:
   - pipenv run tox
+after_success:
+  - codecov
