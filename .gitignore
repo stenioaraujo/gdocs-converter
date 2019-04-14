@@ -132,3 +132,4 @@ dmypy.json
 # Google API
 credentials.json
 token.pickle
+*.swp
